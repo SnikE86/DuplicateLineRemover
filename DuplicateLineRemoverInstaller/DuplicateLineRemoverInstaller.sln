@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "DuplicateLineRemoverInstaller", "DuplicateLineRemoverInstaller\DuplicateLineRemoverInstaller.vdproj", "{C149E330-EE4D-46BD-9507-16644C3EC297}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C149E330-EE4D-46BD-9507-16644C3EC297}.Debug|Default.ActiveCfg = Debug
+		{C149E330-EE4D-46BD-9507-16644C3EC297}.Debug|Default.Build.0 = Debug
+		{C149E330-EE4D-46BD-9507-16644C3EC297}.Release|Default.ActiveCfg = Release
+		{C149E330-EE4D-46BD-9507-16644C3EC297}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,1 @@
+C:\Source\Trunk\Tools\DuplicateLineRemover\DuplicateLineRemover\obj\Release\DuplicateLineRemover.csprojResolveAssemblyReference.cache
