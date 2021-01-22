@@ -1,1 +1,6 @@
-C:\Source\Trunk\Tools\DuplicateLineRemover\DuplicateLineRemover\obj\Release\DuplicateLineRemover.csprojResolveAssemblyReference.cache
+C:\Source\Other\DuplicateLineRemover\DuplicateLineRemover\DuplicateLineRemover\bin\Release\DuplicateLineRemover.exe.config
+C:\Source\Other\DuplicateLineRemover\DuplicateLineRemover\DuplicateLineRemover\bin\Release\DuplicateLineRemover.exe
+C:\Source\Other\DuplicateLineRemover\DuplicateLineRemover\DuplicateLineRemover\bin\Release\DuplicateLineRemover.pdb
+C:\Source\Other\DuplicateLineRemover\DuplicateLineRemover\DuplicateLineRemover\obj\Release\DuplicateLineRemover.csproj.CoreCompileInputs.cache
+C:\Source\Other\DuplicateLineRemover\DuplicateLineRemover\DuplicateLineRemover\obj\Release\DuplicateLineRemover.exe
+C:\Source\Other\DuplicateLineRemover\DuplicateLineRemover\DuplicateLineRemover\obj\Release\DuplicateLineRemover.pdb
