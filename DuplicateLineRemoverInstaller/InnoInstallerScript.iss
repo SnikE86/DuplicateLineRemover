@@ -20,11 +20,11 @@ AppSupportURL={#MyAppURL}
 AppUpdatesURL={#MyAppURL}
 DefaultDirName={autopf}\Utilities\DuplicateLineRemover
 DisableProgramGroupPage=yes
-LicenseFile=C:\Source\Other\DuplicateLineRemover\LICENSE
+LicenseFile={#SourcePath}..\LICENSE
 ; Uncomment the following line to run in non administrative install mode (install for current user only.)
 ;PrivilegesRequired=lowest
 OutputBaseFilename=DuplicateLineRemoverInstaller
-SetupIconFile=C:\Source\Other\DuplicateLineRemover\DuplicateLineRemover\DuplicateLineRemover\duplicateLineRemover.ico
+SetupIconFile={#SourcePath}..\DuplicateLineRemover\DuplicateLineRemover\duplicateLineRemover.ico
 Compression=lzma
 SolidCompression=yes
 WizardStyle=modern
@@ -36,7 +36,7 @@ Name: "english"; MessagesFile: "compiler:Default.isl"
 Name: "desktopicon"; Description: "{cm:CreateDesktopIcon}"; GroupDescription: "{cm:AdditionalIcons}"; Flags: unchecked
 
 [Files]
-Source: "C:\Source\Other\DuplicateLineRemover\DuplicateLineRemover\DuplicateLineRemover\bin\Release\{#MyAppExeName}"; DestDir: "{app}"; Flags: ignoreversion
+Source: "{#SourcePath}..\DuplicateLineRemover\DuplicateLineRemover\bin\Release\{#MyAppExeName}"; DestDir: "{app}"; Flags: ignoreversion
 ; NOTE: Don't use "Flags: ignoreversion" on any shared system files
 
 [Icons]
